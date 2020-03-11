@@ -1,6 +1,6 @@
-### Spring Web Project 소개
+## Spring Web Project 소개
 
-###Link: [Spring Web Project][project]
+### Link: [Spring Web Project][project]
 
 [project]: http://localhost:8008/
 
