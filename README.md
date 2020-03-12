@@ -2,7 +2,7 @@
 
 ### Link: [Spring Web Project][project]
 
-[project]: http://localhost:8008/
+[project]: http://121.142.217.47:8008/
 
 #### 기본적인 웹 게시물 관리
 
