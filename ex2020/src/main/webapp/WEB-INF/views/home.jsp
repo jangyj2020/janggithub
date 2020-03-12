@@ -58,7 +58,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://localhost:8008">Main</a>
+                <a class="navbar-brand" href="/">Main</a>
             </div>
             <!-- /.navbar-header -->
 
