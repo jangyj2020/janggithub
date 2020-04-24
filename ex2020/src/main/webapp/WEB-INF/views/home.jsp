@@ -114,117 +114,26 @@
   </header>
   
  <section>
+ 
     <div class="container">
-      <div class="row align-items-center">
-          	<h2>Spring Web Security를 이용한 로그인 처리</h2><br>
-            <h3 class="display-4">&emsp;1.&emsp;회원가입시 BCryptPasswordEncoder 클래스를 이용한 패스워드 보호</h3>
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-          </div>
-        </div>
-      </div>
-      <br>
        <div class="row align-items-center">
         <div class="col-lg-6 order-lg-2">
           <div class="p-5">
-            <img class="img-fluid rounded-circle" src="/resources/img/join.png" alt="">
+            <img class="img-fluid rounded-circle" src="/resources/img/main.png" alt="">
           </div>
         </div>
       </div>
      </div>
     
   </section>
-  <br>
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-            <h3 class="display-4">1.2&emsp;인코딩된 패스워드를 가지는 사용자 추가</h3>
-          </div>
-        </div>
-      </div>
-      <br>
-       <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="/resources/img/join2.png" alt="">
-          </div>
-        </div>
-      </div>
-     </div>
-    
-  </section>
-  <br>
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-            <h3 class="display-4">2.&emsp;데이터베이스를 이용하는 자동 로그인</h3>
-          </div>
-        </div>
-      </div>
-      <br>
-       <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="/resources/img/login-remember-me.png" alt="">
-          </div>
-        </div>
-      </div>
-     </div>
-    
-  </section>
-<br>
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-            <h3 class="display-4">2.2&emsp;로그인 화면에 자동 로그인 설정</h3>
-          </div>
-        </div>
-      </div>
-      <br>
-       <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="/resources/img/login-remember-me2.png" alt="">
-          </div>
-        </div>
-      </div>
-     </div>
-  </section>
-  <br>
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-            <h3 class="display-4">2.3&emsp;로그아웃시 쿠키 삭제</h3>
-          </div>
-        </div>
-      </div>
-      <br>
-       <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="/resources/img/logout2.png" alt="">
-          </div>
-        </div>
-      </div>
-     </div>
-  </section>
-
 
   <!-- Footer -->
-  <footer class="py-5 bg-black">
+  <!-- <footer class="py-5 bg-black">
     <div class="container">
       <p class="m-0 text-center text-white small">Copyright &copy; Your Website 2019</p>
     </div>
-    <!-- /.container -->
-  </footer>
+    /.container
+  </footer> -->
 
   <!-- Bootstrap core JavaScript -->
   <script src="/resources/vendor/jquery/jquery.min.js"></script>
